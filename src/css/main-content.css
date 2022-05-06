@@ -1,0 +1,120 @@
+.main-section {
+    display: flex;
+    width: 1100px;
+    margin-left: 263px;
+    margin-top: 85px;
+}
+
+.main-container {
+    flex-direction: column;
+    max-width: 783px;
+    padding-top: 0.2rem;
+}
+
+.main-container h2 {
+    display: flex;
+    width: 786px;
+    height: 54px;
+    margin-right: 273px;
+    padding-bottom: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 25px;
+
+    letter-spacing: 0.05em;
+
+    color: #ED7839;
+}
+.video-container {
+    width: 783px;
+    height: 439px;
+}
+
+.video-container #name-front-video {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 452px;
+    height: 36px;
+    left: 397px;
+    right: 199px;
+    top: 474px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+
+    color: #FFFFFF;
+}
+
+.video-container #info-front-video {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    height: 22px;
+    left: 399px;
+    right: 506px;
+    top: 509px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 25px;
+    padding-top: 5px;
+
+    letter-spacing: 0.05em;
+
+    color: #FFFFFF;
+}
+
+.banner {
+    position: absolute;
+    width: inherit;
+    height: inherit;
+    border-radius: 3px;
+}
+
+.video-container h1 {
+    position: absolute;
+    max-width: 734px;
+    height: 54px;
+    padding-left: 34px;
+    padding-right: 12px;
+    padding-top: 36px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 25px;
+
+    letter-spacing: 0.05em;
+
+    color: #FFFFFF;
+}
+
+.img-video-container {
+    position: absolute;
+    width: 120px;
+    height: 110px;
+    margin-left: 34.93px;
+    top: 445px;
+}
+
+.img-video{
+    width: 84px;
+    height: 86px;
+    position: absolute;
+    right: 35px;
+    top: 16.5px;
+    border: 1px solid #ED7839;
+    padding: 3px;
+    border-radius: 50%;
+    box-sizing: border-box;
+}

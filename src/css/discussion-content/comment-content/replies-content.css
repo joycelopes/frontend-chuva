@@ -1,0 +1,113 @@
+.reply-container {
+    margin-left: 23.19px;
+    margin-right: 23.19px;
+    margin-top: 18px;
+}
+
+#reply-one {
+    margin-left: 15px;
+    margin-top: 0.3px;
+    box-shadow: 0px 0px 0px;
+    border-radius: 0px;
+    background-color: #F8F8F8;
+}
+
+#reply-two {
+    margin-left: 15px;
+    margin-top: 0.3px;
+    box-shadow: 0px 0px 0px;
+    border-radius: 0px;
+}
+
+#reply-three {
+    height: 184px;
+    margin-left: 15px;
+    margin-top: 0.3px;
+    box-shadow: 0px 0px 0px;
+    border-radius: 0px;
+    background-color: #F8F8F8;
+}
+
+#reply-four {
+    margin-left: 15px;
+    margin-top: 0.3px;
+    box-shadow: 0px 0px 0px;
+    border-radius: 0px;
+    margin-bottom: 15px;
+    background-color: #F8F8F8;
+}
+
+.identification {
+    position: absolute;
+    display: flex;
+    font-size: 14px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    line-height: 17.5px;
+    margin-left: 885px;
+    margin-top: -17px;
+    color: #ED7839;
+}
+
+
+.reply-container .fas {
+    position: absolute;
+    display: flex;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 23px;
+    margin-top: -20px;
+    margin-left: 945px;
+    color: #ED7839;
+}
+
+#icon-three{
+    position: absolute;
+    display: flex;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 23px;
+    margin-left: 945px;
+    color: #ED7839;
+}
+
+#span-three{
+    position: absolute;
+    display: flex;
+    font-size: 14px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    line-height: 17.5px;
+    margin-left: 875px;
+    color: #ED7839;
+}
+
+#icon-four{
+    position: absolute;
+    display: flex;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 23px;
+    margin-left: 945px;
+    color: #ED7839;
+}
+
+#span-four{
+    position: absolute;
+    display: flex;
+    font-size: 14px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    line-height: 17.5px;
+    margin-left: 875px;
+    color: #ED7839;
+}
+
+.replies.show-reply {
+    display: block;
+}
+
+.replies {
+    display: none;
+
+}
